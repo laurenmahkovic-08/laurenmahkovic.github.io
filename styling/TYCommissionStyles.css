@@ -1,0 +1,41 @@
+li {
+    list-style-type: none;
+    display: flex;
+    gap: 5px;
+    color: #561d25;
+    text-decoration: none;
+    font-weight: bold;
+    transition: color 0.3s;
+   font-style: normal;
+   list-style: none;
+   
+}
+body h1{
+    justify-content: center;
+    color: #561d25;
+}
+
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: #F2D5CF;
+    color: #561d25;
+    line-height: 1.5; 
+    margin: 5px;
+    margin-bottom: 10px;
+    padding: 5px;
+    justify-content: center;
+    text-align: center;
+}
+
+body li{
+    justify-content: center;
+}
+
+body a{
+text-decoration: underline;
+color: #561d25;
+}
+
+body a:hover {
+    color: #c75766;
+}
